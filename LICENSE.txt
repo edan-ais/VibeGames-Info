@@ -1,0 +1,15 @@
+VibeGames Technology License Agreement
+
+The underlying technology of the VibeGames software, DataSpace, is the subject of a provisional patent 
+application (Application Number: [NUMBER]) filed with [PATENT OFFICE] on [FILING DATE]. 
+Copyright © 2025 Analytic Intelligence Solutions. All rights reserved.
+
+Demonstration License:
+- You may view and run this demonstration for personal, non-commercial evaluation purposes only
+- You may not copy, modify, distribute, sell, or lease any part of the patented DataSpace technology
+- You may not reverse engineer the patent-pending components of the DataSpace technology
+- All rights not expressly granted are reserved
+
+The VibeGames platform contains patent-pending methods for AI-assisted game file storage and distribution.
+
+For commercial licensing information, please contact edan@analyticintelligencesolutions.com.
