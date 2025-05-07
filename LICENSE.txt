@@ -1,15 +1,42 @@
-VibeGames Technology License Agreement
+# VibeGames Technology License Agreement
 
-The underlying technology of the VibeGames software, DataSpace, is the subject of a provisional patent 
-application (Application Number: [NUMBER]) filed with [PATENT OFFICE] on [FILING DATE]. 
+## Proprietary Technology Notice
+The underlying technology of the VibeGames software, known as DataSpace, is the subject of a provisional patent application (Application Number: [NUMBER]) filed with [PATENT OFFICE] on [FILING DATE]. 
 Copyright © 2025 Analytic Intelligence Solutions. All rights reserved.
 
-Demonstration License:
-- You may view and run this demonstration for personal, non-commercial evaluation purposes only
-- You may not copy, modify, distribute, sell, or lease any part of the patented DataSpace technology
-- You may not reverse engineer the patent-pending components of the DataSpace technology
-- All rights not expressly granted are reserved
+## Demonstration License Terms
+This Demonstration License ("License") is a legal agreement between you (either an individual or a single entity) and Analytic Intelligence Solutions ("Licensor") for the VibeGames software demonstration that accompanies this License.
 
-The VibeGames platform contains proprietary and patent-pending methods for serverless application data persistence, file storage, and distribution. Unauthorized use or reproduction may result in legal action.
+BY ACCESSING, VIEWING, OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE, DO NOT USE THE SOFTWARE.
 
-For commercial licensing information, please contact edan@analyticintelligencesolutions.com.
+### 1. Grant of License
+Subject to the terms and conditions of this License, Licensor grants you a limited, non-exclusive, non-transferable, revocable license to:
+- Access and run this demonstration for personal, non-commercial evaluation purposes only
+- Use the user interface and publicly accessible features as they are presented
+
+### 2. Restrictions
+You may not:
+- Copy, modify, distribute, sell, lease, sublicense, or transfer any part of the DataSpace technology
+- Reverse engineer, decompile, disassemble, or attempt to derive the source code of the patent-pending components 
+- Remove or alter any proprietary notices or labels on the Software
+- Use the Software for any commercial purpose
+- Create derivative works based on any aspect of the Software
+
+### 3. Proprietary Rights
+The VibeGames platform contains proprietary and patent-pending methods for serverless application data persistence, file storage, and distribution. The Software, including but not limited to all intellectual property rights therein, is owned by Licensor and is protected by United States and international intellectual property laws. All rights not expressly granted are reserved.
+
+### 4. Term and Termination
+This License is effective until terminated. Licensor reserves the right to terminate this License at any time if you fail to comply with any term or condition of this License. Upon termination, you must cease all use of the Software.
+
+### 5. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+### 6. Limitation of Liability
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THE SOFTWARE.
+
+### 7. Governing Law
+This License shall be governed by and construed in accordance with the laws of [YOUR STATE/JURISDICTION].
+
+## Commercial Licensing
+For commercial licensing information or other authorized use, please contact:
+edan@analyticintelligencesolutions.com
