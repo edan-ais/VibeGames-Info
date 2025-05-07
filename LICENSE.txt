@@ -10,6 +10,6 @@ Demonstration License:
 - You may not reverse engineer the patent-pending components of the DataSpace technology
 - All rights not expressly granted are reserved
 
-The VibeGames platform contains patent-pending methods for AI-assisted game file storage and distribution.
+The VibeGames platform contains proprietary and patent-pending methods for serverless application data persistence, file storage, and distribution. Unauthorized use or reproduction may result in legal action.
 
 For commercial licensing information, please contact edan@analyticintelligencesolutions.com.
