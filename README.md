@@ -52,5 +52,5 @@ The DataSpace technology powering VibeGames is patent-pending under provisional 
 
 This repository provides a demonstration implementation with limited usage rights. This code is NOT available for commercial use, modification, or redistribution without explicit licensing permission.
 
-# Legal Information
+## Legal Information
 For detailed legal information, please refer to our License, Terms of Use, and Privacy Policy documents. For licensing inquiries regarding the DataSpace technology or the VibeGames platform, please contact edan@analyticintelligencesolutions.com.
