@@ -2,7 +2,7 @@
 An open-source gaming site for AI-built (vibe coded) games powered by DataSpace self-modifying zero-dependency document storage and sharing technology.
 
 ## About This Repository
-This repository serves as the public information hub and access point for the VibeGames platform. The core source code for VibeGames is maintained in a private repository to protect our proprietary DataSpace technology (provisional patent pending). This repository is ONLY for remote access and information on VibeGames. 
+This repository serves as the public information hub and access point for the VibeGames platform. The core source code for VibeGames is maintained in a private repository to protect our proprietary DataSpace technology (provisional patent pending). This repository is ONLY for remote access and information on VibeGames. For licensing inquiries regarding the DataSpace technology or the VibeGames platform, please contact edan@analyticintelligencesolutions.com.
 
 ## Try VibeGames
 Visit https://edan-ais.github.io/VibeGames/ to experience the platform directly in your browser!
@@ -46,4 +46,4 @@ Clone the repository to your local machine using Git. No build process is requir
 For the best experience with graphically intensive games, VibeGames requires a modern browser (Chrome 76+, Firefox 69+, Safari 14+), JavaScript enabled with localStorage access, and at least 5MB of available browser storage.
 
 ## Legal Information
-For detailed legal information, please refer to our License, Terms of Use, and Privacy Policy documents. For licensing inquiries regarding the DataSpace technology or the VibeGames platform, please contact edan@analyticintelligencesolutions.com.
+For detailed legal information, please refer to our License, Terms of Use, and Privacy Policy documents.
