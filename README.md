@@ -1,6 +1,12 @@
 # VibeGames
 An open-source gaming site for AI-built (vibe coded) games powered by DataSpace self-modifying zero-dependency document storage and sharing technology.
 
+## About This Repository
+This repository serves as the public information hub and access point for the VibeGames platform. The core source code for VibeGames is maintained in a private repository to protect our proprietary DataSpace technology (provisional patent pending). This repository is ONLY for remote access and information on VibeGames. 
+
+## Try VibeGames
+Visit https://edan-ais.github.io/VibeGames/ to experience the platform directly in your browser!
+
 ## Patent Notice
 The DataSpace technology powering VibeGames is patent-pending under provisional application number [APPLICATION NUMBER] filed with [PATENT OFFICE] on [FILING DATE].
 
@@ -32,9 +38,6 @@ As the DataSpace technology evolves, VibeGames will inherit enhanced capabilitie
 While currently file sizes with games attached have stayed incredibly low, there is the potential that we will hit browser storage limits eventually, so we intend to put more effort towards enhanced compression techniques and strategic partitioning, allowing for larger and more complex games to be shared through the platform.
 
 Future iterations will include more sophisticated game creation tools directly within the platform to lower barriers for new creators, allowing complete game development without leaving the VibeGames environment. Ideally, this approach would provide a template for similar platforms for music, interactive art, educational content, and other creative media, all powered by the same DataSpace technology.
-
-## Try VibeGames
-Visit https://edan-ais.github.io/VibeGames/ to experience the platform directly in your browser!
 
 ## Development
 Clone the repository to your local machine using Git. No build process is required – simply serve the files locally using a basic HTTP server. Access the development version at localhost:8080 and start exploring the capabilities of DataSpace technology through the VibeGames platform.
