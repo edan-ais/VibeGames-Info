@@ -2,7 +2,7 @@
 
 Last Updated: 05-06-2025
 
-This Privacy Policy describes how VibeGames ("we," "us," or "our") collects, uses, and discloses information when you use the VibeGames demonstration.
+This Privacy Policy describes how VibeGames and its parent company, Analytic Intelligence Solutions ("we," "us," or "our"), collects, uses, and discloses information when you use the VibeGames demonstration.
 
 ## Information Collection
 
